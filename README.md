@@ -1,10 +1,10 @@
 ### **Server Repository README**
 
+### Backend
+[Backend project](https://github.com/shanta3220/ip-meta-client)
+
 ```markdown
 # BrainStation x Meta Industry Project: Server Repository
-
-# Backend
-[Backend project]([https://github.com/shanta3220/nusrat-jahan-shanta-capstone-backend](https://github.com/shanta3220/ip-meta-server))
 
 This repository contains the **server-side application** for the BrainStation x Meta Industry Project. The server provides the backend logic and API endpoints for the client to interact with.
 
