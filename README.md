@@ -1,6 +1,6 @@
 ### **Server Repository README**
 
-### Backend
+### Frontend
 [Backend project](https://github.com/shanta3220/ip-meta-client)
 
 ```markdown
